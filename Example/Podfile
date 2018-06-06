@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ChenBase_Tests' do
+  pod 'ChenBase', :path => '../'
+  
+  
+end
