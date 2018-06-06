@@ -1,0 +1,6 @@
+framework module ChenBase {
+  umbrella header "ChenBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ChenBase (0.1.0)
+
+DEPENDENCIES:
+  - ChenBase (from `../`)
+
+EXTERNAL SOURCES:
+  ChenBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChenBase: b2404db77ba633c3d3c177db0691c24ff4e1a9d5
+
+PODFILE CHECKSUM: 94c4e58002235c78e6c83a77c49683d1099978da
+
+COCOAPODS: 1.5.3
